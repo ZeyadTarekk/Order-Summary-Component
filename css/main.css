@@ -67,6 +67,12 @@ body {
   width: 400px;
 }
 
+@media (max-width: 767px) {
+  .container {
+    width: 100%;
+  }
+}
+
 .container .image img {
   max-width: 100%;
   border-top-left-radius: 15px;
@@ -119,12 +125,22 @@ body {
   margin-bottom: 7px;
   display: block;
 }
+@media (max-width: 767px) {
+  .main-cont .plan p span:first-child {
+    font-size: 15px;
+  }
+}
 .container .main-cont .plan p span:last-child {
   color: var(--desaturated-blue);
 }
 .container .main-cont .plan a {
   margin-left: 40px;
   color: var(--bright-blue);
+}
+@media (max-width: 767px) {
+  .container .main-cont .plan a {
+    margin-left: 20px;
+  }
 }
 .container .main-cont .plan a:hover {
   text-decoration: none;
