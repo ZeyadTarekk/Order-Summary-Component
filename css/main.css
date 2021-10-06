@@ -53,6 +53,7 @@ body {
   background-image: url(../images/pattern-background-desktop.svg);
   background-size: cover;
   background-repeat: no-repeat;
+  /* background-position: center; */
 }
 
 @media (max-width: 767px) {
@@ -69,7 +70,7 @@ body {
   width: 400px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 400px) {
   .container {
     width: 100%;
   }
@@ -80,6 +81,7 @@ body {
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   height: 100%;
+  width: 100%;
 }
 
 .container .main-cont {
