@@ -52,12 +52,14 @@ ul {
 body {
   background-image: url(../images/pattern-background-desktop.svg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 767px) {
   body {
     background-image: url(../images/pattern-background-mobile.svg);
     background-size: cover;
+    background-repeat: no-repeat;
   }
 }
 
