@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/ZeyadTa/Order-Summary-Component-Challenge)
-- Live Site URL: [Live Site](https://zeyadta.github.io/Order-Summary-Component-Challenge/)
+- Solution URL: [Repo](https://github.com/ZeyadTarekk/Order-Summary-Component-Challenge)
+- Live Site URL: [Live Site](https://ZeyadTarekk.github.io/Order-Summary-Component-Challenge/)
 
 ## My process
 
